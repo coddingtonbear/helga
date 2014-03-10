@@ -36,6 +36,7 @@ ENABLED_PLUGINS = [
     'facts',
     'help',
     'jira',
+    'karma',
     'loljava',
     'manager',
     'meant_to_say',
